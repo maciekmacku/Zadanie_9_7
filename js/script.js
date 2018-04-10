@@ -15,7 +15,7 @@ pickScissors.addEventListener('click', function () {
     playerPick('scissors')
 }); 
 
-var gameState = 'notStarted',  //initial values
+var gameState = 'notStarted',  //value
     player = {
         name: '',
         score: 0
